@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Rugved/MLOps_Repo/Assignment_3/mlruns/0/models/m-7c4ce19ee0c047058b4d021d45f764cb/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.1
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: xgb
+    xgb_version: 3.0.3
+mlflow_version: 3.1.4
+model_id: m-7c4ce19ee0c047058b4d021d45f764cb
+model_size_bytes: 115117
+model_uuid: m-7c4ce19ee0c047058b4d021d45f764cb
+prompts: null
+run_id: f1f909ccafa4439fa09a39be2bf47aa8
+utc_time_created: '2025-08-05 08:26:57.287218'

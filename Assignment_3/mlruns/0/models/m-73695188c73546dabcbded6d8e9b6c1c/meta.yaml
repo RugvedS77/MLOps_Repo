@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Rugved/MLOps_Repo/Assignment_3/mlruns/0/models/m-73695188c73546dabcbded6d8e9b6c1c/artifacts
+creation_timestamp: 1754382814297
+experiment_id: '0'
+last_updated_timestamp: 1754382819352
+model_id: m-73695188c73546dabcbded6d8e9b6c1c
+model_type: null
+name: random_forest_model
+source_run_id: f45bdc93377c4ce88596fbc30b2fc4ff
+status: 2
+status_message: null

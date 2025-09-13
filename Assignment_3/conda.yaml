@@ -1,0 +1,13 @@
+name: wine_mlflow_env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - scikit-learn
+  - xgboost
+  - pandas
+  - numpy
+  - pip:
+      - mlflow
+      - papermill

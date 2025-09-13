@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Rugved/MLOps_Repo/Assignment_3/mlruns/0/282dd5fecc2c46a9bc13058250221e3f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 282dd5fecc2c46a9bc13058250221e3f
+run_name: nebulous-snipe-883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754382101810
+status: 1
+tags: []
+user_id: Rugved

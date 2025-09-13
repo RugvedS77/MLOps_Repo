@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Rugved/MLOps_Repo/Assignment_3/mlruns/0/f45bdc93377c4ce88596fbc30b2fc4ff/artifacts
+end_time: 1754382825440
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f45bdc93377c4ce88596fbc30b2fc4ff
+run_name: youthful-midge-789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754382809494
+status: 3
+tags: []
+user_id: Rugved

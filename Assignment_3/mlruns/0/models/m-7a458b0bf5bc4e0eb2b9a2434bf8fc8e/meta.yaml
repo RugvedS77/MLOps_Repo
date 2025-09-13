@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Rugved/MLOps_Repo/Assignment_3/mlruns/0/models/m-7a458b0bf5bc4e0eb2b9a2434bf8fc8e/artifacts
+creation_timestamp: 1754382819610
+experiment_id: '0'
+last_updated_timestamp: 1754382824836
+model_id: m-7a458b0bf5bc4e0eb2b9a2434bf8fc8e
+model_type: null
+name: xgboost_model
+source_run_id: f45bdc93377c4ce88596fbc30b2fc4ff
+status: 2
+status_message: null

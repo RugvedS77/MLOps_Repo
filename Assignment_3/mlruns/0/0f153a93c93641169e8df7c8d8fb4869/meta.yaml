@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Rugved/MLOps_Repo/Assignment_3/mlruns/0/0f153a93c93641169e8df7c8d8fb4869/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f153a93c93641169e8df7c8d8fb4869
+run_name: unruly-cat-243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754381923793
+status: 1
+tags: []
+user_id: Rugved

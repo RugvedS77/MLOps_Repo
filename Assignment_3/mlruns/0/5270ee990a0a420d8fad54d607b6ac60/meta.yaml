@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Rugved/MLOps_Repo/Assignment_3/mlruns/0/5270ee990a0a420d8fad54d607b6ac60/artifacts
+end_time: 1754382291778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5270ee990a0a420d8fad54d607b6ac60
+run_name: mercurial-trout-130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754382287788
+status: 4
+tags: []
+user_id: Rugved

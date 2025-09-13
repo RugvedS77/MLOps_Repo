@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Rugved/MLOps_Repo/Assignment_3/mlruns/0/d6446ab50a8e45b28448fd819e7c3113/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6446ab50a8e45b28448fd819e7c3113
+run_name: learned-shrimp-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754382197574
+status: 1
+tags: []
+user_id: Rugved

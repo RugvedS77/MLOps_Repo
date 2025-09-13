@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Rugved/MLOps_Repo/Assignment_2/mlruns/0/models/m-82eba2505bc845c9b097a6302645c072/artifacts
+creation_timestamp: 1753776886347
+experiment_id: '0'
+last_updated_timestamp: 1753776895161
+model_id: m-82eba2505bc845c9b097a6302645c072
+model_type: null
+name: model
+source_run_id: 305f961622f1480ab9354d4d78224297
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Rugved/MLOps_Repo/Assignment_2/mlruns/0/305f961622f1480ab9354d4d78224297/artifacts
+end_time: 1753776895190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 305f961622f1480ab9354d4d78224297
+run_name: treasured-goat-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753776885992
+status: 3
+tags: []
+user_id: Rugved

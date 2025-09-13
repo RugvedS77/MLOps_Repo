@@ -1,1 +1,3 @@
-/heart.csv
+__pycache__
+/venv
+*/.venv
